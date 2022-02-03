@@ -2,9 +2,9 @@
 ## Owner von [UtopiaMc.de](https://utopiamc.de)
 ![This is an image](https://assets.utopiamc.de/img/backgrounds/cb-background.min.png)
 
-<p align="center">
+<h1 align="center">
    UtopiaMc.de
-</p>
+</h1>
 
 ### Team Mitglieder:
 - Owner
