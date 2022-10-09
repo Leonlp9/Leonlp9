@@ -61,8 +61,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Leon_lp9#7743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Leon_lp9#7743" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/leon_lp9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="leon_lp9" height="30" width="40" /></a>
+<a href="https://discord.gg/aStTgY4B7C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Leon_lp9#7743" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCMXYILQ5PXsxzZEvakAN7lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="leon_lp9" height="30" width="40" /></a>
 </p>
 
 
