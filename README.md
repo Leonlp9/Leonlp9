@@ -1,8 +1,18 @@
 <h1 align="center"> Leon_lp9 | [Leon Marcel Rabe] </h1>
 Hey i am Leon! <br>
-I am working on UtopiaMC <img src="https://cdn.discordapp.com/emojis/1027885173292941382.webp?size=128&quality=lossless" alt="Utopia" width="80" /> and on my Twitch Channel! https://twitch.tv/leon_lp9
+I am working on UtopiaMC and on my Twitch Channel!  https://twitch.tv/leon_lp9
 
-## Owner of [UtopiaMc.de](https://utopiamc.de)
+<br>
+
+## Last Projects:
+
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonlp9&repo=TwitchTTS&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utopiamc&repo=UtopiaFramework&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utopiamc&repo=LobbyDropIn&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" />
+</p>
+
+## Owner of [UtopiaMc.de](https://utopiamc.de) <img src="https://cdn.discordapp.com/emojis/1027885173292941382.webp?size=128&quality=lossless" alt="Utopia" width="30" />
 ![This is an image](https://cdn.discordapp.com/attachments/875406819508514846/1029503357624254534/cb-background.min.png)
 
 <h1 align="center">
@@ -75,4 +85,4 @@ I am working on UtopiaMC <img src="https://cdn.discordapp.com/emojis/10278851732
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonlp9&theme=dark" alt="leonlp9" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonlp9&theme=blue-green" alt="leonlp9" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonlp9&layout=compact" alt="leonlp9" /></p>
