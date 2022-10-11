@@ -7,28 +7,26 @@
    UtopiaMc.de
 </h1>
 
-### Team Mitglieder:
+### Team members:
 - Owner
-  - [Ich](https://github.com/Leonlp9)
+  - [Me](https://github.com/Leonlp9)
 
 <br>
 
 - Developer / Manager
   - [DevOskar](https://github.com/OskarWiedeweg)
-  - [Ich](https://github.com/Leonlp9)
+  - [(Me)](https://github.com/Leonlp9)
 
 <br>
 
 - Leitung
   - Tasse00700
   - melonenLuca44
-  - nunverdorben
 
 <br>
 
 - Admin
   - AGENT_FEL
-  - DreiDeamon
 
 <br>
 
@@ -40,28 +38,22 @@
 <br>
 
 - Content
-  - Tomboxyz
+  - Tryus_
   - Kastanienmann1
-
-<br>
-
-- Mod
-  - SnowWolf_2003
-
-<br>
-
-- Sup
-  - Blvck_Arrow
-  - lI_Mxrci_Il
   - FetziDieLegende
 
 <br>
 
+- and more..
+   - ...
+
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/aStTgY4B7C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Leon_lp9#7743" height="30" width="40" /></a>
+<a href="https://twitch.tv/leon_lp9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="leon_lp9" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCMXYILQ5PXsxzZEvakAN7lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="leon_lp9" height="30" width="40" /></a>
 </p>
 
