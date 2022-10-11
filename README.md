@@ -7,9 +7,9 @@ I am working on UtopiaMC and on my Twitch Channel!  https://twitch.tv/leon_lp9
 ## Last Projects:
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonlp9&repo=TwitchTTS&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utopiamc&repo=UtopiaFramework&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utopiamc&repo=LobbyDropIn&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" />
+   <a href="https://github.com/Leonlp9/TwitchTTS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonlp9&repo=TwitchTTS&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" /></a>
+   <a href="https://github.com/Utopiamc/UtopiaFramework"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utopiamc&repo=UtopiaFramework&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" /></a>
+   <a href="https://github.com/Utopiamc/LobbyDropIn"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utopiamc&repo=LobbyDropIn&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" /></a>
 </p>
 
 ## Owner of [UtopiaMc.de](https://utopiamc.de) <img src="https://cdn.discordapp.com/emojis/1027885173292941382.webp?size=128&quality=lossless" alt="Utopia" width="30" />
