@@ -1,6 +1,8 @@
 <h1 align="center"> Leon_lp9 | [Leon Marcel Rabe] </h1>
+Hey i am Leon! <br>
+I am working on UtopiaMC <img src="https://cdn.discordapp.com/emojis/1027885173292941382.webp?size=128&quality=lossless" alt="Utopia" width="80" /> and on my Twitch Channel! https://twitch.tv/leon_lp9
 
-## Owner von [UtopiaMc.de](https://utopiamc.de)
+## Owner of [UtopiaMc.de](https://utopiamc.de)
 ![This is an image](https://cdn.discordapp.com/attachments/875406819508514846/1029503357624254534/cb-background.min.png)
 
 <h1 align="center">
