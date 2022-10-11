@@ -1,7 +1,7 @@
 <h1 align="center"> Leon_lp9 | [Leon Marcel Rabe] </h1>
 
 ## Owner von [UtopiaMc.de](https://utopiamc.de)
-![This is an image](https://assets.utopiamc.de/img/backgrounds/cb-background.min.png)
+![This is an image](https://cdn.discordapp.com/attachments/875406819508514846/1029503357624254534/cb-background.min.png)
 
 <h1 align="center">
    UtopiaMc.de
@@ -65,6 +65,8 @@
 <a href="https://www.youtube.com/channel/UCMXYILQ5PXsxzZEvakAN7lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="leon_lp9" height="30" width="40" /></a>
 </p>
 
+![Discord Banner 2](https://discordapp.com/api/guilds/746669192241086504/widget.png?style=banner2)
+
 
 <br>
 
@@ -78,4 +80,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonlp9&show_icons=true&theme=dark&locale=en" alt="leonlp9" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonlp9&theme=dark" alt="leonlp9" /></p>
-  
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonlp9&theme=blue-green" alt="leonlp9" /></p>
