@@ -50,9 +50,9 @@ I am working on UtopiaMC and on my Twitch Channel!  https://twitch.tv/leon_lp9
 <br>
 
 - Content
-  - Tryus_
+  - [Tryus_](https://twitch.tv/tryus_)
   - Kastanienmann1
-  - FetziDieLegende
+  - [FetziDieLegende](https://twitch.tv/fetzidielegende)
 
 <br>
 
