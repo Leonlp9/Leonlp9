@@ -6,6 +6,8 @@ I am working on UtopiaMC and on my Twitch Channel!  https://twitch.tv/leon_lp9
 
 ## Last Projects:
 
+<img src="https://cdn.discordapp.com/attachments/875406819508514846/1042174304697208882/unknown.png">
+
 <p align="center">
    <a href="https://github.com/Leonlp9/TwitchTTS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonlp9&repo=TwitchTTS&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" /></a>
    <a href="https://github.com/Utopiamc/UtopiaFramework"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utopiamc&repo=UtopiaFramework&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" /></a>
