@@ -14,55 +14,6 @@ I am working on UtopiaMC and on my Twitch Channel!  https://twitch.tv/leon_lp9
    <a href="https://github.com/Utopiamc/LobbyDropIn"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utopiamc&repo=LobbyDropIn&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" /></a>
 </p>
 
-## Owner of [UtopiaMc.de](https://utopiamc.de) <img src="https://cdn.discordapp.com/emojis/1027885173292941382.webp?size=128&quality=lossless" alt="Utopia" width="30" />
-![This is an image](https://cdn.discordapp.com/attachments/875406819508514846/1029503357624254534/cb-background.min.png)
-
-<h1 align="center">
-   UtopiaMc.de
-</h1>
-
-### Team members:
-- Owner
-  - [Me](https://github.com/Leonlp9)
-
-<br>
-
-- Developer / Manager
-  - [DevOskar](https://github.com/OskarWiedeweg)
-  - [(Me)](https://github.com/Leonlp9)
-
-<br>
-
-- Leitung
-  - Tasse00700
-  - melonenLuca44
-
-<br>
-
-- Admin
-  - AGENT_FEL
-
-<br>
-
-- Builder
-  - BLUE1919
-  - VMI1
-  - charlycooper
-
-<br>
-
-- Content
-  - [Tryus_](https://twitch.tv/tryus_)
-  - Kastanienmann1
-  - [FetziDieLegende](https://twitch.tv/fetzidielegende)
-
-<br>
-
-- and more..
-   - ...
-
-<br>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
