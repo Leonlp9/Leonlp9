@@ -38,4 +38,4 @@ I am working on UtopiaMC and on my Twitch Channel!  https://twitch.tv/leon_lp9
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonlp9&theme=dark" alt="leonlp9" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonlp9&layout=compact" alt="leonlp9" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonlp9&layout=compact" alt="leonlp9" /></p> 
