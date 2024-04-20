@@ -22,7 +22,6 @@ I am working on UtopiaMC and on my Twitch Channel!  https://twitch.tv/leon_lp9
 
 ![Discord Banner 2](https://discordapp.com/api/guilds/746669192241086504/widget.png?style=banner2)
 
-
 <br>
 
 <br>
