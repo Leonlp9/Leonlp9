@@ -1,15 +1,12 @@
 <h1 align="center"> Leon_lp9 | [Leon Marcel Rabe] </h1>
 Hey i am Leon! <br>
-I am working on UtopiaMC and on my Twitch Channel!  https://twitch.tv/leon_lp9 
 
 <br>
   
 ## Last Projects:
 
 <p align="center">
-   <a href="https://github.com/Leonlp9/TwitchTTS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonlp9&repo=TwitchTTS&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" /></a>
-   <a href="https://github.com/Utopiamc/UtopiaFramework"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utopiamc&repo=UtopiaFramework&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" /></a>
-   <a href="https://github.com/Utopiamc/LobbyDropIn"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utopiamc&repo=LobbyDropIn&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" /></a>
+   <a href="https://github.com/Leonlp9/ChallengePlugin"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonlp9&repo=ChallengePlugin&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -17,9 +14,6 @@ I am working on UtopiaMC and on my Twitch Channel!  https://twitch.tv/leon_lp9
 <a href="https://discord.gg/aStTgY4B7C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Leon_lp9#7743" height="30" width="40" /></a>
 <a href="https://twitch.tv/leon_lp9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="leon_lp9" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCMXYILQ5PXsxzZEvakAN7lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="leon_lp9" height="30" width="40" /></a>
-</p>
-
-![Discord Banner 2](https://discordapp.com/api/guilds/746669192241086504/widget.png?style=banner2)
 
 <br>
 <br>
