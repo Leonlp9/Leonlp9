@@ -12,7 +12,6 @@ I am working on UtopiaMC and on my Twitch Channel!  https://twitch.tv/leon_lp9
    <a href="https://github.com/Utopiamc/LobbyDropIn"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Utopiamc&repo=LobbyDropIn&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="leonlp9" /></a>
 </p>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/aStTgY4B7C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Leon_lp9#7743" height="30" width="40" /></a>
