@@ -1,84 +1,101 @@
 <h1 align="center">Leon Marcel Rabe | Leon_lp9</h1>
-<p align="center">Hey! I am Leon, a passionate software developer and tech enthusiast.</p>
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&width=435&lines=Hello!+I+am+Leon,+a+tech+enthusiast!;Software+developer+%26+problem+solver;Welcome+to+my+GitHub+profile!;Feel+free+to+look+around!" alt="Typing SVG">
+</p>
 
 ---
 
 ## 🌟 Recent Projects
-<p align="center">
-   <a href="https://github.com/Leonlp9/ChallengePlugin">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leonlp9&repo=ChallengePlugin&show_owner=true&bg_color=141418&border_color=1F1F25&text_color=BBBBC6" alt="ChallengePlugin" />
-   </a>
-</p>
+<a href="https://github.com/Leonlp9/Kochbuch">
+   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leonlp9&repo=Kochbuch&theme=react&bg_color=1F222E&title_color=00C853&hide_border=true&icon_color=8BC34A&show_icons=false" alt="Kochbuch">
+</a>
+<a href="https://github.com/Leonlp9/Vencord">
+   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leonlp9&repo=Vencord&theme=react&bg_color=1F222E&title_color=00C853&hide_border=true&icon_color=8BC34A&show_icons=false" alt="Vencord">
+</a>
+<a href="https://github.com/Leonlp9/ChallengePlugin">
+   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leonlp9&repo=ChallengePlugin&theme=react&bg_color=1F222E&title_color=00C853&hide_border=true&icon_color=8BC34A&show_icons=false" alt="ChallengePlugin">
+</a>
 
 ---
 
 ## 🤝 Connect with Me
-<p align="left">
-   <a href="https://discord.gg/aStTgY4B7C" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-   </a>
-   <a href="https://twitch.tv/leon_lp9" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Twitch" height="30" width="40" />
-   </a>
-   <a href="https://www.youtube.com/channel/UCMXYILQ5PXsxzZEvakAN7lg" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-   </a>
+<p>
+    <a href="https://discordapp.com/users/480290233032769536">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://www.youtube.com/@Leon_lp9">
+        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://www.twitch.tv/leon_lp9">
+        <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF.svg?logo=twitch&logoColor=white&style=for-the-badge"/>
+    </a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
-<p align="center">
-   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-   </a>
-   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" />
-   </a>
-   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-   </a>
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-   </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-   </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-   </a>
-   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-   </a>
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-   </a>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-   </a>
-   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-   </a>
-   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-   </a>
-   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
-   </a>
-</p>
+<details>
+    <summary><h2>🛠️ Tools I Use</h2></summary>
+        <h3>👨‍💻 Programming and Markup Languages</h3>
+        <p>
+            <a href="#"><img alt="C#" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white"></a>
+            <a href="#"><img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white"></a>
+            <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"></a>
+            <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"></a>
+            <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white"></a>
+            <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"></a>
+            <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"></a>
+            <a href="#"><img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"></a>
+            <a href="#"><img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white"></a>
+            <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white"></a>
+            <a href="#"><img alt="JSON" src="https://img.shields.io/badge/-JSON-5E5C5C?logo=json&logoColor=white"></a>
+            <a href="#"><img alt="XML" src="https://img.shields.io/badge/-XML-8A2BE2?logo=xml&logoColor=white"></a>
+        </p>
+        <h3>🧰 Frameworks and Libraries</h3>
+        <p>
+            <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+            <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white"></a>
+            <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"></a>
+            <a href="#"><img alt="Node-RED" src="https://img.shields.io/badge/-Node--RED-8F0000?logo=nodered&logoColor=white"></a>
+        </p>
+        <h3>🗄️ Databases and Cloud Hosting</h3>
+        <p>
+            <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+            <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+            <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
+        </p>
+        <h3>💻 Software and Tools</h3>
+        <p>
+            <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-DD7A2A.svg?logo=intellij-idea&logoColor=white"></a>
+            <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-C43DFF.svg?logo=phpstorm&logoColor=white"></a>
+            <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-2DFF88.svg?logo=pycharm&logoColor=white"></a>
+            <a href="#"><img alt="Rider" src="https://img.shields.io/badge/Rider-C66E5C.svg?logo=rider&logoColor=white"></a>
+            <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
+            <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+            <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+            <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+        </p>
+</details>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonlp9&show_icons=true&theme=dark&locale=en" alt="Leon_lp9 Stats" />
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
+
+<h3>🔥 Streak Stats</h3>
+<p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Leon_lp9's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Leonlp9&theme=monokai-metallian&hide_border=true&short_numbers=true&ring=00C853&fire=FFD700&currStreakNum=FFD700&sideNums=FFFFFF&currStreakLabel=00C853&sideLabels=00C853" />
+    </a>
 </p>
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Leonlp9&mode=weekly&hide_total_contributions=true" alt="Leon_lp9 Streak Stats" />
-</p>
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonlp9&layout=compact&theme=dark" alt="Leon_lp9 Top Languages" />
-</p>
+
+<h3>💻 GitHub Profile Stats</h3>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Leon_lp9's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Leonlp9&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00C853&icon_color=8BC34A" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Leon_lp9's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Leonlp9&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00C853&icon_color=8BC34A&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Leon_lp9's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Leonlp9&bg_color=1F222E&color=8BC34A&line=00C853&point=FFFFFF&hide_border=true" /></a>
+</details>
