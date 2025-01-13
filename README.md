@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000&color=00C853&center=true&height=20&vCenter=true&width=435&lines=Leon+Marcel+Rabe+%7C+Leon_lp9" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=16&duration=1&pause=1000&color=00C853&center=true&height=20&vCenter=true&width=435&lines=Leon+Marcel+Rabe+%7C+Leon_lp9" alt="Typing SVG">
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&height=24&vCenter=true&color=00C853&width=435&lines=Hello!+I+am+Leon,+a+tech+enthusiast!;Software+developer+%26+problem+solver;Welcome+to+my+GitHub+profile!;Feel+free+to+look+around!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Monocraft&pause=1000&height=24&vCenter=true&color=00C853&width=435&lines=Hello!+I+am+Leon,+a+tech+enthusiast!;Software+developer+%26+problem+solver;Welcome+to+my+GitHub+profile!;Feel+free+to+look+around!" alt="Typing SVG">
 </p>
 
 <details open> 
@@ -11,11 +11,20 @@
     <a href="https://github.com/Leonlp9/Kochbuch">
        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leonlp9&repo=Kochbuch&theme=react&bg_color=1F222E&title_color=00C853&hide_border=true&icon_color=8BC34A&show_icons=false" alt="Kochbuch">
     </a>
+    <a href="https://github.com/Leonlp9/PHPUntisAPI">
+       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leonlp9&repo=PHPUntisAPI&theme=react&bg_color=1F222E&title_color=00C853&hide_border=true&icon_color=8BC34A&show_icons=false" alt="PHPUntisAPI">
+    </a>
     <a href="https://github.com/Leonlp9/Vencord">
        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leonlp9&repo=Vencord&theme=react&bg_color=1F222E&title_color=00C853&hide_border=true&icon_color=8BC34A&show_icons=false" alt="Vencord">
     </a>
     <a href="https://github.com/Leonlp9/ChallengePlugin">
        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leonlp9&repo=ChallengePlugin&theme=react&bg_color=1F222E&title_color=00C853&hide_border=true&icon_color=8BC34A&show_icons=false" alt="ChallengePlugin">
+    </a>
+    <a href="https://github.com/Leonlp9/Sortieralgorithmen">
+       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leonlp9&repo=Sortieralgorithmen&theme=react&bg_color=1F222E&title_color=00C853&hide_border=true&icon_color=8BC34A&show_icons=false" alt="Sortieralgorithmen">
+    </a>
+    <a href="https://github.com/Leonlp9/Physik">
+       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Leonlp9&repo=Physik&theme=react&bg_color=1F222E&title_color=00C853&hide_border=true&icon_color=8BC34A&show_icons=false" alt="Physik">
     </a>
 
 <a href="https://github.com/Leonlp9?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
