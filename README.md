@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://readme-typing-svg.demolab.com?font=Monocraft&pause=1000&height=24&vCenter=true&color=00C853&width=435&lines=Hello!+I+am+Leon,+a+tech+enthusiast!;Software+developer+%26+problem+solver;Welcome+to+my+GitHub+profile!;Feel+free+to+look+around!" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=Monocraft&pause=1000&height=24&vCenter=true&color=00C853&width=467&lines=Hello!+I+am+Leon,+a+tech+enthusiast!;Software+developer+%26+problem+solver;Welcome+to+my+GitHub+profile!;Feel+free+to+look+around!" alt="Typing SVG">
     </a>
 </p>
 
