@@ -45,6 +45,9 @@
     <a href="https://www.twitch.tv/leon_lp9">
         <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF.svg?logo=twitch&logoColor=white&style=for-the-badge"/>
     </a>
+    <a href="mailto:leon.marcel.rabe@gmail.com">
+        <img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge"/>
+    </a>
 </details>
 
 <details>
