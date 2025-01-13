@@ -96,7 +96,7 @@
 <h3>🔥 Streak Stats</h3>
 <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Leon_lp9's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Leonlp9&theme=monokai-metallian&hide_border=true&short_numbers=true&ring=00C853&fire=FFD700&currStreakNum=FFD700&sideNums=FFFFFF&currStreakLabel=00C853&sideLabels=00C853" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Leon_lp9's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Leonlp9&theme=monokai-metallian&hide_border=true&short_numbers=true&ring=00C853&fire=FFD700&currStreakNum=FFD700&sideNums=FFFFFF&currStreakLabel=00C853&sideLabels=00C853&card_width=400" />
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Leon_lp9's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Leonlp9&theme=monokai-metallian&hide_border=true&short_numbers=true&ring=00C853&fire=FFD700&currStreakNum=FFD700&sideNums=FFFFFF&currStreakLabel=00C853&sideLabels=00C853&mode=weekly&hide_total_contributions=true&card_width=400" />
     </a>
 </p>
