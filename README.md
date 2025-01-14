@@ -10,6 +10,22 @@
     </a>
 </p>
 
+<p align="center">
+    <a href="https://discordapp.com/users/480290233032769536">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-1F222E.svg?logo=discord&logoColor=00C853&style=for-the-badge"/>
+    </a>
+    <a href="https://www.youtube.com/@Leon_lp9">
+        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-1F222E.svg?logo=youtube&logoColor=00C853&style=for-the-badge"/>
+    </a>
+    <a href="https://www.twitch.tv/leon_lp9">
+        <img alt="Twitch" src="https://img.shields.io/badge/Twitch-1F222E.svg?logo=twitch&logoColor=00C853&style=for-the-badge"/>
+    </a>
+    <a href="mailto:leon.marcel.rabe@gmail.com">
+        <img alt="Email" src="https://img.shields.io/badge/Email-1F222E.svg?logo=gmail&logoColor=00C853&style=for-the-badge"/>
+    </a>
+</p>
+
+
 <details open> 
     <summary><h2>🌟 Recent Projects</h2></summary>
     <a href="https://github.com/Leonlp9/Kochbuch">
@@ -32,22 +48,6 @@
     </a>
 
 <a href="https://github.com/Leonlp9?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
-
-<details open> 
-    <summary><h2>🤝 Connect with Me</h2></summary>
-    <a href="https://discordapp.com/users/480290233032769536">
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://www.youtube.com/@Leon_lp9">
-        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://www.twitch.tv/leon_lp9">
-        <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF.svg?logo=twitch&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="mailto:leon.marcel.rabe@gmail.com">
-        <img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge"/>
-    </a>
 </details>
 
 <details>
