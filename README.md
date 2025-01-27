@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#">
-        <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=16&duration=1&pause=1000&color=00C853&center=true&height=20&vCenter=true&width=435&lines=Leon+Marcel+Rabe+%7C+Leon_lp9" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=Monocraft&size=16&duration=1&pause=1000&color=00C853&center=true&height=20&vCenter=true&width=435&lines=Leon+Rabe+%7C+Leon_lp9" alt="Typing SVG">
     </a>
 </p>
 
